@@ -1,6 +1,7 @@
 # undeadseige
 
-![logo](https://media.forgecdn.net/avatars/587/142/637955897086279829.png)
+![image](https://github.com/Gabriele007xx/undeadseige/assets/97365913/38a9e0ac-e8b1-44c5-9758-52da38223ba9)
+
 
 UndeadSiege is a mod that changes and replaces normal zombie sieges with configurable sieges. Since most of the siege editing mod are outdated, i have decided to make one my self.
 
